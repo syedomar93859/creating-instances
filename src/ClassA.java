@@ -1,4 +1,4 @@
-public class ClassA {
+public class ClassA { //comment
         int x;
         int y;
         public ClassA(int x, int y){
