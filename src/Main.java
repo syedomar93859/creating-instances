@@ -1,3 +1,11 @@
+/**
+ * This class is used to create instances of ClassA and ClassB
+ * @author Syed Zayed Omar
+ * @email: syed.omar@ucalgary.ca
+ * @version 21.0.1
+ * @UCID: 30206798
+ */
+
 import java.util.Scanner;   // Import the Scanner class
 
 public class Main {
@@ -25,9 +33,6 @@ public class Main {
 
         ClassB v2 = new ClassB(x2, y2); // Create an instance of ClassB with assigned values
         System.out.println("x value: " + v2.x + "\n" + "y value: " + v2.y + "\n");// Print the x and y values of ClassB
-
-
-
     }
 }
 
